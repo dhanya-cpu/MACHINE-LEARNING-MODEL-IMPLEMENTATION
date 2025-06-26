@@ -1,20 +1,38 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
+COMPANY:CODTECH IT SOLUTIONS 
 
+NAME:V.A.DHANYASRI
 
+INTERN ID:CT04DG3211
 
+DOMAIN:PYTHON PROGRAMMING 
 
+DURATION:4 WEEKS
 
+MENTOR:NEELA SANTHOSH 
 
-
-
-
-
-
-
-
-
-
-
+OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/333ed9c4-aba0-4349-943a-a2b05859106e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
